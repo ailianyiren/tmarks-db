@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "tmarks-db",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "3b28bcc1-bde9-479c-8dbc-ca26543824c2",
+			"database_name": "tmarks-prod-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
